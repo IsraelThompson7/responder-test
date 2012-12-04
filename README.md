@@ -24,3 +24,4 @@ ResponderTest[1228:11303] handleKeyboardWillShow:
 ResponderTest[1228:11303] alertView:didDismissWithButtonIndex:
 ResponderTest[1228:11303] handleKeyboardDidShow:
 
+Looking for a solution that prevents the keyboard from dismissing.
